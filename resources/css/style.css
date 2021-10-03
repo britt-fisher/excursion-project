@@ -9,8 +9,26 @@ h1 {
     color: white;
     text-align: center;
 }
-p.link {
+p {
     color: aquamarine;
     font-size: 16px;
     text-align: center;
+}
+.vid, .img, .app {
+    display: block;
+    margin: auto;
+}
+h2, h3 {
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+    text-align: center;
+}
+.description {
+    font-size: 21px;
+    color: gray;
+}
+.foot {
+    color:gray;
+    text-align: right;
 }
